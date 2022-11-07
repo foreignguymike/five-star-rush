@@ -1,0 +1,188 @@
+
+fsr.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FRUITfloor
+  rotate: false
+  xy: 566, 402
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 0
+FRUITfloor
+  rotate: false
+  xy: 1110, 758
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+FRUITtable
+  rotate: false
+  xy: 480, 370
+  size: 84, 112
+  orig: 84, 112
+  offset: 0, 0
+  index: -1
+apple
+  rotate: false
+  xy: 900, 560
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+banana
+  rotate: false
+  xy: 480, 312
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+bonusbg
+  rotate: false
+  xy: 204, 212
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+bonusheader
+  rotate: false
+  xy: 708, 504
+  size: 128, 48
+  orig: 128, 48
+  offset: 0, 0
+  index: -1
+bonusselectedbg
+  rotate: false
+  xy: 1670, 1202
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+buttonbg
+  rotate: false
+  xy: 2, 96
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+buttonselectedbg
+  rotate: false
+  xy: 1338, 1086
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cd1
+  rotate: false
+  xy: 1924, 1498
+  size: 100, 184
+  orig: 100, 184
+  offset: 0, 0
+  index: -1
+cd2
+  rotate: false
+  xy: 1338, 896
+  size: 140, 188
+  orig: 140, 188
+  offset: 0, 0
+  index: -1
+cd3
+  rotate: false
+  xy: 1540, 1094
+  size: 128, 192
+  orig: 128, 192
+  offset: 0, 0
+  index: -1
+cdgetready
+  rotate: false
+  xy: 2, 554
+  size: 896, 184
+  orig: 896, 184
+  offset: 0, 0
+  index: -1
+cdrush
+  rotate: false
+  xy: 1338, 1288
+  size: 556, 192
+  orig: 556, 192
+  offset: 0, 0
+  index: -1
+cdtime
+  rotate: false
+  xy: 2, 298
+  size: 476, 184
+  orig: 476, 184
+  offset: 0, 0
+  index: -1
+grapes
+  rotate: false
+  xy: 1338, 850
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+headerframe
+  rotate: false
+  xy: 2, 1482
+  size: 1920, 200
+  orig: 1920, 200
+  offset: 0, 0
+  index: -1
+instructions
+  rotate: false
+  xy: 2, 484
+  size: 704, 68
+  orig: 704, 68
+  offset: 0, 0
+  index: -1
+orange
+  rotate: false
+  xy: 1480, 1028
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+pixel
+  rotate: false
+  xy: 1896, 1476
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 1016, 840
+  size: 320, 640
+  orig: 320, 640
+  offset: 0, 0
+  index: -1
+refreshicon
+  rotate: false
+  xy: 900, 622
+  size: 104, 116
+  orig: 104, 116
+  offset: 0, 0
+  index: -1
+scoreframe
+  rotate: false
+  xy: 2, 740
+  size: 1012, 740
+  orig: 1012, 740
+  offset: 0, 0
+  index: -1
+tileselect
+  rotate: false
+  xy: 2, 2
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+tileselectx
+  rotate: false
+  xy: 1016, 746
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
